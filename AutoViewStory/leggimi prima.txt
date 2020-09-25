@@ -1,0 +1,9 @@
+Estrai questi file dalla cartella compressa, crea un COLLEGAMENTO sul desktop solo del file "AutoViewStory.exe", poi buon divertimento :)
+
+(per errori scrivete a @everestkio, ma prima provate a fare questo se non si apre chrome e il bot si ferma: 
+In caso non funzionasse cercate su google chromedriver e installate la versione con scritto 85 (o futuri, dipende da google chrome) e altri numeri, e mettete il file .exe nella cartella sostituendo l'attuale)
+
+copyright revision 2019/2020
+
+
+creatori bot: @everestkio per @emaskills
