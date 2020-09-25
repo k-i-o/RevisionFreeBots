@@ -1,0 +1,3 @@
+Estrai questi file dalla cartella compressa, crea un collegamento sul desktop solo del file "AutoUnFollow.exe", poi buon divertimento :)
+
+copyright revision 2019/2020
